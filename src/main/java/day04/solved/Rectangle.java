@@ -23,6 +23,7 @@ public class Rectangle extends Polygon{
 		return 2*(this.length + this.breadth);
 	}
 	
+	//
 	public int getNumberOfSides() {
 		return super.numberOfSides;
 	}

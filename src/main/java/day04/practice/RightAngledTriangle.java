@@ -20,6 +20,6 @@ public class RightAngledTriangle extends Rectangle{
         double hypotenuse = Math.sqrt(Math.pow(length, 2) + Math.pow(breadth, 2));
         return super.circumference() + hypotenuse;
     }
-	}
+}
 
 

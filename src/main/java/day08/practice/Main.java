@@ -22,6 +22,7 @@ public class Main {
 			}
 
 			String[] values = input.split(",");
+//			System.out.println(values);
 			if (values.length != 2) {
 				System.out.println("Invalid input format. Please try again.");
 				continue;

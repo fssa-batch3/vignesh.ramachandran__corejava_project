@@ -31,6 +31,11 @@
 			<scope>test</scope>
 		</dependency>
 
+		<dependency>
+			<groupId>in.vigneshramachandran</groupId>
+			<artifactId>srcatering</artifactId>
+			<version>1.0.0</version>
+		</dependency>
 	</dependencies>
 
 

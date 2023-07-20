@@ -7,7 +7,7 @@ import java.util.Scanner;
 public class HashMapDemo2 {
 
     public static void main(String[] args) {
-        HashMap<String, Integer> nameCountMap = new HashMap<>();
+        Map<String, Integer> nameCountMap = new HashMap<>();
 
         Scanner scanner = new Scanner(System.in);
         System.out.print("Enter the string: ");

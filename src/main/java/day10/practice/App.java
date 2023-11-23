@@ -30,9 +30,9 @@ public class App {
 		//Question 2
 			System.out.println("Question 2");
 			UserRegister userRegister = new UserRegister();
-			User user1 = new User(1, "Maruthan", "maruthanalagar@gmail.com");
-			User user2 = new User(2, "Maruthan Alagar", "maruthan.alagar@email.com");
-			User user3 = new User(3, "Alagar", "maruthanalagar@gmail.com");
+			User user1 = new User(1, "Vignesh", "vignesh@gmail.com");
+			User user2 = new User(2, "Vignesh Ramachandran", "vignesh.ramachandran@email.com");
+			User user3 = new User(3, "Ramachandran", "vigneshramachandran@gmail.com");
 			try {
 				userRegister.register(user1);
 				userRegister.register(user2);
@@ -46,11 +46,6 @@ public class App {
 				System.out.println("User ID: " + user.id + ", Name: " + user.name + ", Email: " + user.email);
 			}
 		
-		
-		
-		
-		
-		//User user = new User(1, "Vignesh", "vignesh@gmail.com");
 
 	}
 

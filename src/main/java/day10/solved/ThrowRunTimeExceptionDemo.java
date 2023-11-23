@@ -1,6 +1,5 @@
 package day10.solved;
 
-import in.vigneshramachandran.srcatering.model.Task;
 
 class NewTaskValidator {
 	public static boolean validate(Task task)  {

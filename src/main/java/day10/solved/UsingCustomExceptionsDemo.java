@@ -2,7 +2,7 @@ package day10.solved;
 
 
 
-class Task {
+ class Task {
 
 	private int id;
 	private String name;
